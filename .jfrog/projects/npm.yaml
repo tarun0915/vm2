@@ -1,0 +1,8 @@
+version: 1
+type: npm
+resolver:
+    repo: curation-npm2-remote
+    serverId: tomjfrog
+deployer:
+    repo: npm-approved-local
+    serverId: tomjfrog

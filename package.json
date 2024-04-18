@@ -20,7 +20,9 @@
   "license": "MIT",
   "dependencies": {
     "acorn": "^8.7.0",
-    "acorn-walk": "^8.2.0"
+    "acorn-walk": "^8.2.0",
+    "vm2": "^3.9.19",
+    "juicy-chat-bot": "~0.8.0"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
